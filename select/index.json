@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "TIME IS MONEY",
+  "base_artist": "MIKADO",
+  "createdAt": "2026-02-14T09:23:19.998123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If Time Is Money (Fly Navigation)",
+      "artist": "Wu-Tang Clan feat. Method Man",
+      "has_synced": true,
+      "path": "select/01_If_Time_Is_Money_(Fly_Navigation)_Wu-Tang_Clan_feat._Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If Time Is Money (Fly Navigation) [feat. Method Man]",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/02_If_Time_Is_Money_(Fly_Navigation)_[feat._Method_Man]_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time Is Money",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/03_Time_Is_Money_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If Time Is Money (Fly Navigation)",
+      "artist": "Wu‐Tang Clan",
+      "has_synced": true,
+      "path": "select/04_If_Time_Is_Money_(Fly_Navigation)_Wu‐Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If Time Is Money (Fly Navigation)",
+      "artist": "Wu-Tang feat. Method Man",
+      "has_synced": true,
+      "path": "select/05_If_Time_Is_Money_(Fly_Navigation)_Wu-Tang_feat._Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If Time Is Money (Fly Navigation)",
+      "artist": "Wu‐Tang feat. Method Man",
+      "has_synced": true,
+      "path": "select/06_If_Time_Is_Money_(Fly_Navigation)_Wu‐Tang_feat._Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Time Is Money",
+      "artist": "You Me At Six feat. Winston McCall",
+      "has_synced": false,
+      "path": "select/07_Time_Is_Money_You_Me_At_Six_feat._Winston_McCall.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Time Is Money (Feat. Winston Mccall Of Parkway Drive)",
+      "artist": "You Me At Six",
+      "has_synced": false,
+      "path": "select/08_Time_Is_Money_(Feat._Winston_Mccall_Of_Parkway_Drive)_You_Me_At_Six.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Time Is Money",
+      "artist": "You Me At Six, Winston McCall",
+      "has_synced": false,
+      "path": "select/09_Time_Is_Money_You_Me_At_Six,_Winston_McCall.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Time Is Money (Bastard)",
+      "artist": "Swans",
+      "has_synced": false,
+      "path": "select/10_Time_Is_Money_(Bastard)_Swans.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Time Is Money",
+      "artist": "You Me at Six",
+      "has_synced": false,
+      "path": "select/11_Time_Is_Money_You_Me_at_Six.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Time Is Cash, Time Is Money",
+      "artist": "BAP",
+      "has_synced": true,
+      "path": "select/12_Time_Is_Cash,_Time_Is_Money_BAP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Time Is Money",
+      "artist": "Soulja Boy",
+      "has_synced": false,
+      "path": "select/13_Time_Is_Money_Soulja_Boy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Time Is Money",
+      "artist": "Soulja Boy Tell'em",
+      "has_synced": false,
+      "path": "select/14_Time_Is_Money_Soulja_Boy_Tell'em.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TIME IS MONEY",
+      "artist": "MIKADO",
+      "has_synced": false,
+      "path": "select/pl_01_TIME_IS_MONEY_MIKADO.txt"
+    }
+  ]
+}
